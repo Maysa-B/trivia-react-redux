@@ -1,5 +1,3 @@
-// função fornecida pela Trybe para auxiliar a realização dos testes
-
 import React from 'react';
 import { render } from '@testing-library/react';
 import { Router } from 'react-router-dom';
