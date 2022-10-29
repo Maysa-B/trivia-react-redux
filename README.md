@@ -14,6 +14,10 @@ The most important features of this project are:
 6. At the end, there is a ranking, with all results ranked from the best to the worst.
 7. The group developed tests to cover 100% of the application.
 
+## Deploy
+
+If you are interested in seeing the final result you can access it by this [link](https://trivia-react-redux-maysa-b.vercel.app/).
+
 ----------
 
 If you see something that can be improved, don't hesitate to get in touch with me! All feedback is very welcome.:sparkles:
